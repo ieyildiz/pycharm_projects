@@ -1,0 +1,65 @@
+# Bu viminfo dosyası Vim 9.0 tarafından oluşturulmuştur.
+# Yapabileceğinizi düşünüyorsanız bu dosyayı düzenleyebilirsiniz!
+
+# Viminfo version
+|1,4
+
+# Bu dosya yazıldığı sırada mevcut 'encoding'in değeri
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Komut Satırı Geçmişi (yeniden eskiye):
+:wq
+|2,0,1684773048,,"wq"
+
+# Arama Dizisi Geçmişi (yeniden eskiye):
+
+# İfade Geçmişi (yeniden eskiye):
+
+# Girdi Satırı Geçmişi (yeniden eskiye):
+
+# Hata Ayıklama Satırı Geçmişi (yeniden eskiye):
+
+# Yazmaçlar:
+""-	CHAR	0
+	#
+|3,1,36,0,1,0,1684773028,"#"
+
+# Dosya imleri:
+'0  1  0  ~/PycharmProjects/.git/COMMIT_EDITMSG
+|4,48,1,0,1684773048,"~/PycharmProjects/.git/COMMIT_EDITMSG"
+'1  32  0  ~/PycharmProjects/.git/COMMIT_EDITMSG
+|4,49,32,0,1684773043,"~/PycharmProjects/.git/COMMIT_EDITMSG"
+'2  32  0  ~/PycharmProjects/.git/COMMIT_EDITMSG
+|4,50,32,0,1684773043,"~/PycharmProjects/.git/COMMIT_EDITMSG"
+'3  1  0  ~/PycharmProjects/.git/COMMIT_EDITMSG
+|4,51,1,0,1684772605,"~/PycharmProjects/.git/COMMIT_EDITMSG"
+'4  1  0  ~/PycharmProjects/.git/COMMIT_EDITMSG
+|4,52,1,0,1684772605,"~/PycharmProjects/.git/COMMIT_EDITMSG"
+'5  1  0  ~/PycharmProjects/.git/COMMIT_EDITMSG
+|4,53,1,0,1684772605,"~/PycharmProjects/.git/COMMIT_EDITMSG"
+
+# Atlama listesi (önce en yeniler):
+-'  1  0  ~/PycharmProjects/.git/COMMIT_EDITMSG
+|4,39,1,0,1684773048,"~/PycharmProjects/.git/COMMIT_EDITMSG"
+-'  32  0  ~/PycharmProjects/.git/COMMIT_EDITMSG
+|4,39,32,0,1684773043,"~/PycharmProjects/.git/COMMIT_EDITMSG"
+-'  32  0  ~/PycharmProjects/.git/COMMIT_EDITMSG
+|4,39,32,0,1684773043,"~/PycharmProjects/.git/COMMIT_EDITMSG"
+-'  1  0  ~/PycharmProjects/.git/COMMIT_EDITMSG
+|4,39,1,0,1684772611,"~/PycharmProjects/.git/COMMIT_EDITMSG"
+-'  1  0  ~/PycharmProjects/.git/COMMIT_EDITMSG
+|4,39,1,0,1684772605,"~/PycharmProjects/.git/COMMIT_EDITMSG"
+
+# Dosyalardaki imlerin geçmişi (yeniden eskiye):
+
+> ~/PycharmProjects/.git/COMMIT_EDITMSG
+	*	1684773047	0
+	"	1	0
+	^	32	0
+	.	31	18
+	+	2	0
+	+	30	18
+	+	31	18
